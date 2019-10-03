@@ -1,3 +1,3 @@
 # latihan-pull-request
-Latihan pul request
+Latihan pull request
 oleh mas agung
